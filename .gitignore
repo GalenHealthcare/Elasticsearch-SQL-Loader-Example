@@ -1,0 +1,6 @@
+# Visual Studio configurations
+.vs
+
+# Output files
+bin/
+obj/
